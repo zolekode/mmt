@@ -19,16 +19,16 @@ Disclaimer: The official installation guide is found here: https://uniformal.git
 7. Once they are installed, restart the Intelli-J. (Maybe you might need to restart it after installing each plugin. It doesn't make any difference.)
 
 8. Finally when you launch Intelli-J, create a new `MathHub` project. 
-i. Click on + Create New Project 
-ii. Then select MMT MathHub
-iii. Select the `mmt.jar` file you download during step 5
-iv. Give a name to your project
-v. Click on Finish
+- Click on + Create New Project 
+- Then select MMT MathHub
+- Select the `mmt.jar` file you download during step 5
+- Give a name to your project
+- Click on Finish
 
 9. In the section below (after IntelliJ has fully launched), you will see some tabs like `TODO`, `Version Control`, `MMT`, `Terminal`. 
-i. Click on `MMT`. 
-ii. Next the following tabs `MMT: Errors X Shell X` will become visible.
-iii. Click on the `Shell` tab.
+- Click on `MMT`. 
+- Next the following tabs `MMT: Errors X Shell X` will become visible.
+- Click on the `Shell` tab.
 
 10. Finally, in the Textbox below (with the `Run` Button on the far right) enter the following command:
 `lmh install Tutorials/Mathematicians`to download dependency archives.
